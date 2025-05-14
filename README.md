@@ -1,6 +1,6 @@
 # 🔢 UEFN Verse PinPad
 
-Fortnite UEFN（Unreal Editor for Fortnite）で作成した、Verseスクリプトによる4桁の暗証番号式Pin Padデバイスです。
+Fortnite UEFN（Unreal Editor for Fortnite）で作成した、Verseスクリプトによる暗証番号式Pin Padデバイスです。
 
 ![screenshot](https://github.com/gori-GORILLA-gori/UEFN-Verse-PinPad/blob/main/image/Fortnite_pinpad0.png?raw=true)
 
