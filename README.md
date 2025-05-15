@@ -29,7 +29,7 @@ Fortnite UEFN（Unreal Editor for Fortnite）で作成した、Verseスクリプ
 - 詳細画面にある`MyButton`に使用するボタンを設定します。
 <img src="https://github.com/gori-GORILLA-gori/UEFN-Verse-PinPad/blob/main/image/Fortnite_pinpad1.png" width="300">
 
-- `Pascodes`の部分の+をクリックしてできたインデックスの右の▶をクリックします
+- `Passcodes`の部分の+をクリックしてできたインデックスの右の▶をクリックします
 <img src="https://github.com/gori-GORILLA-gori/UEFN-Verse-PinPad/blob/main/image/Fortnite_pinpad5.png" width="300">
 
 - ▶を押して出た`PIN`にパスワードを設定します
@@ -41,7 +41,7 @@ Fortnite UEFN（Unreal Editor for Fortnite）で作成した、Verseスクリプ
 - `Trigger`の部分が`なし`になるので使用するトリガーを設定します
 <img src="https://github.com/gori-GORILLA-gori/UEFN-Verse-PinPad/blob/main/image/Fortnite_pinpad2.png" width="300">
 
-- `Pascodes`の内容を増やすことでパスワードも増やせます。
+- `Passcodes`の内容を増やすことでパスワードも増やせます。
 <img src="https://github.com/gori-GORILLA-gori/UEFN-Verse-PinPad/blob/main/image/Fortnite_pinpad6.png" width="300">
 
 ## 📽️ 動画デモ
